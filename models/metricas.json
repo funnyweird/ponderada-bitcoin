@@ -1,0 +1,13 @@
+{
+  "modelo": "Regressão linear",
+  "treino": 871,
+  "teste": 218,
+  "ajuste_validacao": 696,
+  "validacao": 175,
+  "mae_linear_validacao_usd": 1709.4714900160823,
+  "mae_ridge_validacao_usd": 1737.915729061007,
+  "mae_referencia_validacao_usd": 1719.5407589285714,
+  "mae_usd": 1518.2206881384102,
+  "mae_referencia_usd": 1476.4959862385322,
+  "melhor_que_referencia": false
+}
